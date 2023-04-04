@@ -4,7 +4,7 @@
 ```js
 import { experience } from 'ThiagoMartinsSaraiva'
 
-export const ThiagoMartinsSaraiva = () => {
+export const Me = () => {
   const { ReactJS, ReactNative, TypeScript, NodeJS, NestJS } = experience
 
   const currentWork = {
