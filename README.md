@@ -1,5 +1,5 @@
-### Hi there!
-#### My name is Thiago, and I'm a Frontend Engineer.
+### Hi there! 🤙
+## My name is Thiago, and I'm a Frontend Engineer. 💻
 ```js
 import { experience } from 'ThiagoMartinsSaraiva'
 
@@ -22,7 +22,7 @@ export const Me = () => {
   return { currentWork, currentStudyProject }
 }
 ```
-## **What I Use**
+## What I Use 🔥
 <code><img height="30" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -36,6 +36,6 @@ export const Me = () => {
 <code><img height="30" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-## **GitHub Statistics**
+## GitHub Statistics 🎯
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMartinsSaraiva&theme=react&line_height=40"/>
