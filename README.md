@@ -22,7 +22,7 @@ export const Me = () => {
   
   const totalExperience = {
     time: 'almost 5 years',
-    otherTechs: [...currentWork.techs, VueJS, Angular, ElectronJS],
+    techs: [...currentWork.techs, VueJS, Angular, ElectronJS],
   }
 
   return { currentWork, totalExperience }
