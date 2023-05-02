@@ -4,15 +4,28 @@
 import { experience } from 'ThiagoMartinsSaraiva'
 
 export const Me = () => {
-  const { ReactJS, ReactNative, TypeScript, NodeJS, NestJS } = experience
+  const { 
+    ReactJS, ReactNative, TypeScript,
+    NodeJS, NestJS, VueJS, Angular,
+    ElectronJS, GraphQL,
+  } = experience
 
   const currentWork = {
     company: 'Datum TI (Lojas Renner)',
     role: 'Frontend Engineer',
-    techs: [ReactJS, ReactNative, TypeScript, NodeJS, NestJS],
+    techs: [
+      ReactJS, ReactNative, TypeScript, NodeJS, 
+      NestJS, GraphQL,
+     ],
+    since: 05/2022
+  }
+  
+  const totalExperience = {
+    time: 'almost 5 years',
+    otherTechs: [...currentWork.techs, VueJS, Angular, ElectronJS],
   }
 
-  return { currentWork }
+  return { currentWork, totalExperience }
 }
 ```
 ## What I Use 🔥
