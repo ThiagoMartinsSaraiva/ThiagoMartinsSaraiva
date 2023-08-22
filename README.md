@@ -11,17 +11,17 @@ export const Me = () => {
   } = experience
 
   const currentWork = {
-    company: 'Datum TI (Lojas Renner)',
-    role: 'Frontend Engineer',
+    company: 'BairrU',
+    role: 'Senior Software Engineer',
     techs: [
       ReactJS, ReactNative, TypeScript, NodeJS, 
       NestJS, GraphQL,
      ],
-    since: 05/2022
+    since: 08/2023
   }
   
   const totalExperience = {
-    time: 'almost 5 years',
+    time: '5 years',
     techs: [...currentWork.techs, VueJS, Angular, ElectronJS],
   }
 
