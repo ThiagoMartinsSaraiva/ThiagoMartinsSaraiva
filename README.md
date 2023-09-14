@@ -1,5 +1,5 @@
 ### Hi there! 🤙
-## My name is Thiago, and I'm a Frontend Engineer. 💻
+## My name is Thiago, and I'm a Software Engineer. 💻
 ```js
 import { experience } from 'ThiagoMartinsSaraiva'
 
