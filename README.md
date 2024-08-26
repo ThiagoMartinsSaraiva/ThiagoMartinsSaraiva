@@ -11,17 +11,15 @@ export const Me = () => {
   } = experience
 
   const currentWork = {
-    company: 'BairrU',
     role: 'Senior Software Engineer',
     techs: [
-      ReactJS, ReactNative, TypeScript, NodeJS, 
-      NestJS, GraphQL,
+      VueJS, ReactJS, ReactNative, TypeScript,
+      NodeJS, NestJS, GraphQL,
      ],
-    since: 08/2023
   }
   
   const totalExperience = {
-    time: '5 years',
+    time: '6 years',
     techs: [...currentWork.techs, VueJS, Angular, ElectronJS],
   }
 
